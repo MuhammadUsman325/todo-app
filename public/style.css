@@ -1,0 +1,16 @@
+
+
+ 
+
+body{
+   background-image: url("bgimage.png");
+   background-image: no-repeat;
+}
+#val{
+    text-indent: 10px;
+    
+}
+button{
+    margin-left: 100px;
+    
+}
